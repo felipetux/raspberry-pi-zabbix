@@ -1,5 +1,5 @@
 #!/bin/bash
-#this code is tested un fresh 2016-05-27-raspbian-jessie-lite.img Raspberry Pi image
+#this code is tested un fresh 2017-09-07-raspbian-stretch-lite.img Raspberry Pi image
 #sudo raspi-config -> extend partition -> reboot
 #sudo su
 #apt-get update -y && apt-get upgrade -y && apt-get install git -y
